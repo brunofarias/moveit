@@ -20,7 +20,7 @@ export function Countdown() {
 
   return (
     <div>
-      <div className={styles.coutdownContainer}>
+      <div className={styles.countdownContainer}>
         <div>
           <span>{minutesLeft}</span>
           <span>{minutesRight}</span>
