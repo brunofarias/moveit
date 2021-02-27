@@ -29,7 +29,7 @@
 
 ## 👨🏻‍💻 Sobre o projeto
 
-Baseada na técnica de pomodoro, o Move.it tem como objetivo estimular pessoas que passam longos périodos na frente do computador sem se exercitar, desafiando-os de forma divertida e ao mesmo tempo lhes proporcionando um melhor bem estar. O Move.it foi uma aplicação desenvolvida durante a Next Level Week NLW#4 - Trilha ReactJs - oferecida pela <a href="https://rocketseat.com.br/">Rocketseat<a/>
+Baseada na técnica de pomodoro, o Move.it tem como objetivo estimular pessoas que passam longos períodos na frente do computador sem se exercitar, desafiando-os de forma divertida e ao mesmo tempo lhes proporcionando um melhor bem estar. O Move.it foi uma aplicação desenvolvida durante a Next Level Week NLW#4 - Trilha ReactJs - oferecida pela <a href="https://rocketseat.com.br/">Rocketseat<a/>
 
 ## 🚀 Tecnologias
 
