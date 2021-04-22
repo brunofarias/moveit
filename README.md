@@ -62,7 +62,7 @@ Deploy no [Vercel](https://moveit-pied-gamma.vercel.app/)
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/brunofarias/github-explorer.git && cd moveit
+$ git clone https://github.com/brunofarias/moveit.git && cd moveit
 ```
 
 **Siga os passos abaixo**
